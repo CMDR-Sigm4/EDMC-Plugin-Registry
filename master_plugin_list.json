@@ -1,5 +1,29 @@
 [
   {
+    "pluginName": "Architect Tracker",
+    "pluginVer": "1.2.2.2",
+    "pluginZip": "https://github.com/kfpopeye/EliteDangerous/archive/refs/tags/v1.2.2.2.zip",
+    "autoUpdateEnabled": false,
+    "autoInstallEnabled": false,
+    "pluginAuthors": [
+      "kf popeye"
+    ],
+    "pluginMainLink": "https://github.com/kfpopeye/EliteDangerous",
+    "pluginLastUpdate": "2026-02-15",
+    "pluginDirName": "ArchitectTracker",
+    "pluginCategory": [
+      "Colonization"
+    ],
+    "pluginDesc": "Tracks amd compares materials required by construction sites to those loaded on ship and fleet carrier. Designed for VR users.",
+    "pluginLastTestedEDMC": "6.1.2",
+    "pluginRequirements": [],
+    "pluginLicense": "GPL-2.0",
+    "pluginIcon": "",
+    "pluginVT": "",
+    "pluginHash": "",
+    "pluginStars": "5"
+  },
+  {
     "pluginName": "BGS-Tally",
     "pluginVer": "5.4.0",
     "pluginZip": "https://github.com/aussig/BGS-Tally/releases/download/5.4.0/BGS-Tally.zip",
@@ -52,7 +76,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "dfc8d8233ba9f3d4357757e6d3f4a3fd52d1169cdb25a168af0ffe2e45dfa1dd",
-    "pluginStars": "32"
+    "pluginStars": "31"
   },
   {
     "pluginName": "EDMC-Mining-Analytics",
@@ -128,7 +152,7 @@
     "pluginIcon": "",
     "pluginVT": "https://www.virustotal.com/gui/file/b1f6fb98de82c69f4ca5fc6d83764c3f94481cf0f895ddf7537653254e611978/details",
     "pluginHash": "b1f6fb98de82c69f4ca5fc6d83764c3f94481cf0f895ddf7537653254e611978",
-    "pluginStars": "10"
+    "pluginStars": "11"
   },
   {
     "pluginName": "EDMC-Pioneer",
@@ -155,7 +179,7 @@
     "pluginIcon": "",
     "pluginVT": "",
     "pluginHash": "f6719ccb780247fc5a721eb56b251b81be93df4659d0215c81895574f24cff32",
-    "pluginStars": "19"
+    "pluginStars": "18"
   },
   {
     "pluginName": "EDMCModernOverlay",
@@ -286,6 +310,6 @@
     "pluginIcon": "",
     "pluginVT": "https://www.virustotal.com/gui/file/43ea695110fb4516de7e16e0c44f039dbb1fff717b22da8c10eba5139deeaf44",
     "pluginHash": "43ea695110fb4516de7e16e0c44f039dbb1fff717b22da8c10eba5139deeaf44",
-    "pluginStars": "2"
+    "pluginStars": "3"
   }
 ]
