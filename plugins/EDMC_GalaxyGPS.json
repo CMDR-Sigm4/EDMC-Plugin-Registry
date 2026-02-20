@@ -1,12 +1,12 @@
 {
   "pluginName": "GalaxyGPS",
-  "pluginVer": "1.5.2",
-  "pluginZip": "https://github.com/Fenris159/EDMC_GalaxyGPS/releases/download/1.5.2/EDMC_GalaxyGPS_152.zip",
+  "pluginVer": "1.5.3",
+  "pluginZip": "https://github.com/Fenris159/EDMC_GalaxyGPS/releases/download/1.5.2/EDMC_GalaxyGPS_153.zip",
   "autoUpdateEnabled": false,
   "autoInstallEnabled": false,
   "pluginAuthors": ["Fenris159"],
   "pluginMainLink": "https://github.com/Fenris159/EDMC_GalaxyGPS",
-  "pluginLastUpdate": "2026-02-18",
+  "pluginLastUpdate": "2026-02-19",
   "pluginDirName": "EDMC_GalaxyGPS",
   "pluginCategory": ["Navigation", "Exploration", "Utility"],
   "pluginDesc": "Route planning and fleet carrier management. Import Spansh routes, track waypoints, manage carriers via CAPI, 20+ languages.",
@@ -15,5 +15,5 @@
   "pluginLicense": "MIT",
   "pluginIcon": "",
   "pluginVT": "",
-  "pluginHash": "cfd848da77daaf62499a92f9643cb8c8304e1238f4687daee7691df5ba05aed3"
+  "pluginHash": "85c216498949de5fd43e9b76eae1dd23a847a2ab8b76acc3a458ed2917246961"
 }
