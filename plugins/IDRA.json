@@ -1,7 +1,7 @@
 {
   "pluginName": "I.D.R.A.",
-  "pluginVer": "1.1.0",
-  "pluginZip": "https://github.com/CMDR-Sigm4/I.D.R.A./releases/download/v1.1.0/IDRA.zip",
+  "pluginVer": "1.2.0",
+  "pluginZip": "https://github.com/CMDR-Sigm4/I.D.R.A./releases/download/v1.2.0/IDRA.zip",
   "autoUpdateEnabled": false,
   "autoInstallEnabled": false,
   "pluginAuthors": [
@@ -20,6 +20,6 @@
   "pluginRequirements": [],
   "pluginLicense": "GPL-2.0-or-later",
   "pluginIcon": "https://raw.githubusercontent.com/CMDR-Sigm4/I.D.R.A./main/idra_icon_64.png",
-  "pluginVT": "https://www.virustotal.com/gui/url/f4002945f3a3e4ce82ed57a83a4f2af50aa3d2f60eee7e7a411b8c77f6832a58?nocache=1",
-  "pluginHash": "ae666cc8c7ea6d47c9dce71e7e2a4d7f1af338c62e102b10128d57dbd71bf648"
+  "pluginVT": "https://www.virustotal.com/gui/url-analysis/u-4978692787d7327cb8b87c264048a57d2ea55997f9653d1ae0ec780d930794af-0bbcb9c3",
+  "pluginHash": "a5e296b1d36ace1236a0d36ca7fae48b4fc33a20c44384b8cbb6ac10ae3eeb33"
 }
